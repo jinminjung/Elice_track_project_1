@@ -1,4 +1,4 @@
-# Parking_space_detection_project
+# Parking space detection project
 
 ## 이미지 처리 및 객체 인식을 활용한 주차 공간 탐지 프로젝트
 
