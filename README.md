@@ -4,7 +4,7 @@
 
 Detectron을 사용한 주행 가능 공간, 주차 공간 탐지 및 주차 자리 개수 탐지, 위험 거리 사람 알림 서비스
 
-## Result
+## Results
 
 ![alt text](image/image1.png)
 ![alt text](image/image2.png)
